@@ -429,9 +429,8 @@ def plots(k, k_vals, labeledf):
     Parameters:
     -----------------------------------
     k: k value
-    Returns:
+    Returns: plot visual
     -----------------------------------
-    plot visual
     """
     fig = plt.figure(figsize=(8,6))
     ax = fig.add_subplot(111, projection='3d')
@@ -519,23 +518,3 @@ plt.show()
 
 ![png](output_22_1.png)
 
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
